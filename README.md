@@ -1,126 +1,56 @@
-# 👨‍💻 Prashant Padwal
+# ✦ PRASHANT PADWAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Prashant+Padwal+%F0%9F%91%8B;Software+Developer+%7C+CSE+Student;Backend+Development+Enthusiast;Exploring+AI%2C+RAG+%26+LLMs;Building+Ideas+Into+Real+Projects" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:090D1A,50:111B35,100:123B50&height=190&section=header&text=PRASHANT%20PADWAL&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=70&descSize=15&animation=fadeIn" />
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=36D9E6&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences.;Engineering+Scalable+Applications.;Exploring+AI+%26+Intelligent+Systems.;Turning+Ideas+Into+Reality." />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" />
+<br/><br/>
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GITHUB-Follow-FFFFFF?style=flat-square&logo=github&logoColor=black"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-Contact-00C9A7?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
-
-## 🚀 About Me
-
-I'm a Computer Science and Engineering student passionate about building practical software solutions and exploring emerging technologies.
-
-- 🎓 Pursuing B.Tech in Computer Science & Engineering at JUIT.
-- 💻 Interested in Software Development, Backend Engineering and AI.
-- 🧠 Practicing Data Structures & Algorithms using C++.
-- 🔭 Currently developing **MediAssist AI**, an intelligent clinical decision support platform powered by RAG and LLMs.
-- 🌱 Exploring scalable backend systems, AI integration and modern development tools.
-- ⚡ I enjoy learning new technologies and turning ideas into working applications.
-
----
-
-## 🧰 Tech Stack & Tools
-
-### Programming Languages
-<div>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
-</div>
-
-### Frontend Development
-<div>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
-</div>
-
-### Backend & Database
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</div>
-
-### AI / Machine Learning
-<div>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-</div>
-
-### Developer Tools
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
-</div>
-
----
-
-## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="58%" valign="top">
 
-### 🏥 MediAssist AI
+## ◈ ABOUT ME
 
-An intelligent clinical decision support platform built using Retrieval-Augmented Generation and Large Language Models.
+I'm a Computer Science student and developer who enjoys building practical software, exploring intelligent systems, and solving challenging problems.
 
-**Highlights**
-- Patient medical record management
-- AI-powered medical history retrieval
-- Context-aware clinical assistance
+Currently focused on backend engineering, AI-powered applications, and software development.
 
-**Tech:** Python, RAG, LLMs, Vector Database
-
-</td>
-<td width="50%">
-
-### 🛒 ShopNest
-
-A full-stack e-commerce application with product management and user authentication.
-
-**Highlights**
-- Product listing and management
-- User authentication
-- Shopping cart functionality
-
-**Tech:** Node.js, Express, MongoDB, EJS
+- 🎓 B.Tech CSE — JUIT
+- 💻 Software Development
+- 🧠 Data Structures & Algorithms
+- 🤖 RAG & Large Language Models
+- ⚡ Always learning, always building
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="42%" valign="top">
 
-### 🌐 DPI Engine
+## ◈ QUICK PROFILE
 
-A Deep Packet Inspection project focused on network traffic analysis.
-
-**Highlights**
-- Network packet inspection
-- Traffic analysis
-- Network protocol exploration
-
-**Tech:** C++ / Python (update according to your implementation)
-
-</td>
-<td width="50%">
-
-### 🎓 College Feedback System
-
-A web application for collecting and managing student feedback.
-
-**Highlights**
-- Feedback submission
-- Database management
-- Web-based interface
-
-**Tech:** Python, Flask, MySQL
+```yaml
+name: Prashant Padwal
+role: Software Developer
+language: C++, Python, JavaScript
+backend: Node.js, Express
+database: MongoDB, MySQL
+interests:
+  - AI Engineering
+  - Backend Systems
+  - Problem Solving
+currently_building: MediAssist AI
+```
 
 </td>
 </tr>
@@ -128,58 +58,153 @@ A web application for collecting and managing student feedback.
 
 ---
 
-## 📊 GitHub Analytics
+## ◈ TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+**LANGUAGES**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+**AI & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode,postman&theme=dark" />
+
+</div>
+
+---
+
+## ◈ SELECTED WORKS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x220/101827/36D9E6?text=MEDIASSIST+AI" width="100%" />
+
+### 01 / MediAssist AI
+
+**Intelligent Clinical Decision Support**
+
+An AI-powered platform that helps healthcare professionals retrieve and understand patient medical history through RAG and LLMs.
+
+`Python` `RAG` `LLMs` `Vector DB`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x220/101827/36D9E6?text=SHOPNEST" width="100%" />
+
+### 02 / ShopNest
+
+**Full-Stack E-commerce Platform**
+
+A web application with product management, user authentication, and shopping cart functionality.
+
+`Node.js` `Express` `MongoDB` `EJS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x220/101827/36D9E6?text=DPI+ENGINE" width="100%" />
+
+### 03 / DPI Engine
+
+**Network Traffic Analysis**
+
+A project focused on deep packet inspection and understanding network traffic.
+
+`C++` `Networking` `Packet Analysis`
+
+[View Repository](https://github.com/PrashantBuildsX/dpi-engine)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://placehold.co/600x220/101827/36D9E6?text=FEEDBACK+SYSTEM" width="100%" />
+
+### 04 / College Feedback System
+
+**Feedback Management Application**
+
+A web-based platform for collecting and managing college feedback.
+
+`Python` `Flask` `MySQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36D9E6&icon_color=36D9E6&text_color=C9D1D9&rank_icon=github" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=36D9E6&text_color=C9D1D9" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=36D9E6&fire=36D9E6&currStreakLabel=36D9E6&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## ◈ CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-## 🎯 Currently Focusing On
-
-- 📌 Strengthening Data Structures & Algorithms.
-- 📌 Building real-world backend applications.
-- 📌 Exploring Retrieval-Augmented Generation (RAG).
-- 📌 Understanding Large Language Models and AI systems.
-- 📌 Improving problem-solving and software engineering skills.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=36D9E6&line=36D9E6&point=FFFFFF&area=true&hide_border=true" />
 
 <br/><br/>
 
-### 💡 "Building, Breaking, Learning & Improving — One Commit at a Time."
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## ◈ CURRENTLY EXPLORING
+
+<table>
+<tr>
+<td>01</td>
+<td>AI Engineering</td>
+<td>RAG, LLMs & intelligent applications</td>
+</tr>
+<tr>
+<td>02</td>
+<td>Backend Engineering</td>
+<td>APIs, databases & system architecture</td>
+</tr>
+<tr>
+<td>03</td>
+<td>Problem Solving</td>
+<td>DSA & competitive programming</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:123B50,100:090D1A&height=100&section=footer&text=BUILD.%20LEARN.%20REPEAT.&fontColor=FFFFFF&fontSize=23&animation=fadeIn" />
+
+**Let's build something meaningful together.**
+
+<a href="https://github.com/YOUR_USERNAME">GITHUB</a> · <a href="YOUR_LINKEDIN_URL">LINKEDIN</a> · <a href="mailto:YOUR_EMAIL">EMAIL</a>
 
 </div>
